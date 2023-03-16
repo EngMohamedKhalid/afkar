@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982551767958",
+    "project_id": "afkar-8d505",
+    "storage_bucket": "afkar-8d505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982551767958:android:84a308ac9bd4870200cbb7",
+        "android_client_info": {
+          "package_name": "com.Afkar.afkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982551767958-qq7jtq24pae3ka1a4eq9jovpfnc9fvtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_puHAoaEmQ-CyQBHYoWR8rANZfApwes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982551767958-qq7jtq24pae3ka1a4eq9jovpfnc9fvtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

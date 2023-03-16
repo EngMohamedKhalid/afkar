@@ -1,0 +1,18 @@
+{
+  "changeLang": "Change Language",
+  "noteTitle": "Note Title",
+  "typeTitle": "type your note title",
+  "noteContent": "Note content",
+  "typeNote": "type your note content",
+  "welcomeBack": "Welcome back!",
+  "email": "User Email",
+  "name": "User Name",
+  "passwordChar": "must be more than 6 char",
+  "password": "Password",
+  "signIn": "Sign In",
+  "noAccount": "you don't have an account?",
+  "haveAccount": "you have an account?",
+  "signUp": "Sign Up",
+  "time": "Time",
+  "date": "Date"
+}
